@@ -68,7 +68,19 @@
   <img src="https://img.shields.io/badge/Mockito-C5D8A4?style=flat-square&logo=dependabot&logoColor=black" alt="Mockito" />
   <img src="https://img.shields.io/badge/Render_Cloud-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+---
 
+### 📊 Painel Dinâmico & Atividade em Tempo Real
+
+<div align="center">
+
+  <!-- 1. Sequência de Commits (Streak Stats) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabiorodrigues-tech-dev&theme=tokyonight&background=111318&border=234878&stroke=A9C7FF&ring=86D7A9&fire=F0C35B&currStreakLabel=86D7A9&sideLabels=A9C7FF&dates=8E9099&border_radius=12" width="49%" alt="Sequência de Commits" />
+
+  <!-- 2. Estatísticas Gerais do Perfil -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabiorodrigues-tech-dev&show_icons=true&theme=tokyonight&bg_color=111318&border_color=234878&title_color=A9C7FF&icon_color=86D7A9&text_color=E2E2E9&border_radius=12" width="49%" alt="Estatísticas do GitHub" />
+
+</div>
 </div>
 
 ---
