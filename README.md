@@ -73,38 +73,7 @@
 
 ---
 
-### 🌟 Projeto em Destaque
+### 🌟 Projeto em Destaque: NOVA
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3 align="left">🌌 <a href="https://github.com/fabiorodrigues-tech-dev/NOVA">NOVA — Sistema Multi-Agente & Plataforma Full Stack</a></h3>
-      <p align="left">
-        Ecossistema autônomo baseado em <strong>Clean Architecture</strong> (Java 21 + Spring Boot 3.3), servidor <strong>Spring AI MCP</strong> para consulta transacional ACID, esteira de <strong>CI/CD com GitHub Actions</strong>, suíte de <strong>27 testes automatizados</strong>, camada de voz neural em tempo real e dashboard executivo em <strong>Material Design 3</strong>.
-      </p>
-      <p align="left">
-        <code>Java 21</code> • <code>Spring Boot 3</code> • <code>Clean Architecture</code> • <code>MCP</code> • <code>Docker</code> • <code>M3 UI</code>
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <a href="https://github.com/fabiorodrigues-tech-dev/NOVA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fabiorodrigues-tech-dev&repo=NOVA&theme=tokyonight&border_color=234878&title_color=A9C7FF" alt="NOVA Pin" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiorodrigues-tech-dev&show_icons=true&theme=tokyonight&hide_border=false&border_color=234878&title_color=A9C7FF&icon_color=86D7A9&text_color=E2E2E9" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiorodrigues-tech-dev&layout=compact&theme=tokyonight&hide_border=false&border_color=234878&title_color=A9C7FF&text_color=E2E2E9" height="155" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <sub>Desenvolvido com foco em excelência técnica, arquitetura limpa e design por <a href="https://linkedin.com/in/fabiorodrigues-dev">Fábio Rodrigues</a>.</sub>
-</div>
+```text
+🌌 NOVA — Autonomous Multi-Agent Platform & Back-End Microservice
