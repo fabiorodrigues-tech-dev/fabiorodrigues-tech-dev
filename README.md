@@ -58,39 +58,3 @@
   <img src="https://img.shields.io/badge/Material_Design_3-757575?style=flat-square&logo=materialdesign&logoColor=white" alt="M3" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
-
-  <br>
-
-  <!-- DevOps & Quality -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions_CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Mockito-C5D8A4?style=flat-square&logo=dependabot&logoColor=black" alt="Mockito" />
-  <img src="https://img.shields.io/badge/Render_Cloud-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
----
-
-### 📊 Painel Dinâmico & Atividade em Tempo Real
-
-<div align="center">
-
-  <!-- 1. Gráfico de Linha de Contribuições (Activity Graph) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fabiorodrigues-tech-dev&theme=tokyo-night&bg_color=111318&color=A9C7FF&line=86D7A9&point=F0C35B&area=true&hide_border=false&border_color=234878&radius=12" width="100%" alt="Gráfico de Atividade" />
-
-  <br><br>
-
-  <!-- 2. Sequência de Commits (Streak Stats) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fabiorodrigues-tech-dev&theme=tokyonight&background=111318&border=234878&stroke=A9C7FF&ring=86D7A9&fire=F0C35B&currStreakLabel=86D7A9&sideLabels=A9C7FF&dates=8E9099&border_radius=12" width="49%" alt="Sequência de Commits" />
-
-  <!-- 3. Estatísticas Gerais do Perfil -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabiorodrigues-tech-dev&show_icons=true&theme=tokyonight&bg_color=111318&border_color=234878&title_color=A9C7FF&icon_color=86D7A9&text_color=E2E2E9&border_radius=12" width="49%" alt="Estatísticas do GitHub" />
-
-</div>
-</div>
-
----
-
-### 🌟 Projeto em Destaque: NOVA
-
-```text
-🌌 NOVA — Autonomous Multi-Agent Platform & Back-End Microservice
