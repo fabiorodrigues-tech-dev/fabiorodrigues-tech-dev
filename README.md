@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/fabiorodrigues-tech-dev/NOVA">
-      <img src="https://img.shields.io/badge/Portfólio_NOVA-234878?style=for-the-badge&logo=github&logoColor=white" alt="NOVA" />
+      <img src="https://img.shields.io/badge/Projeto_NOVA-234878?style=for-the-badge&logo=github&logoColor=white" alt="NOVA" />
     </a>
   </p>
 
