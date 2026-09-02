@@ -2,7 +2,7 @@
 
   <!-- Typing SVG Animado -->
   <a href="https://linkedin.com/in/fabiorodrigues-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=4A6FA5&center=true&vCenter=true&width=600&lines=F%C3%A1bio+Rodrigues;Software+Engineer+%7C+Java+21+%26+Spring+Boot+3;Clean+Architecture+%26+Spring+AI+(MCP);Product+Engineer+%7C+Design+at+UniFBV" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=4A6FA5&center=true&vCenter=true&width=600&lines=F%C3%A1bio+Rodrigues;Software+Developer+%7C+Java+21+%26+Spring+Boot+3;Clean+Architecture+%26+Spring+AI+(MCP);Product+Engineer+%7C+Design+at+UniFBV" alt="Typing SVG" />
   </a>
 
   <p align="center">
