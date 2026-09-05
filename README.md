@@ -30,21 +30,44 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21">
   <img src="https://img.shields.io/badge/Spring_Boot_3.3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA">
   <img src="https://img.shields.io/badge/Spring_AI_MCP-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/H2_Database-003B57?style=flat-square&logo=h2&logoColor=white" alt="H2 Database">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Material_Design_3-757575?style=flat-square&logo=materialdesign&logoColor=white" alt="Material Design">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5">
+  <img src="https://img.shields.io/badge/Mockito-787CB5?style=flat-square&logo=python&logoColor=white" alt="Mockito">
+  <img src="https://img.shields.io/badge/Render_Cloud-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Vapi_AI-000000?style=flat-square&logo=openai&logoColor=white" alt="Vapi AI">
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio">
   <img src="https://img.shields.io/badge/ElevenLabs-FF6F61?style=flat-square&logo=elevenlabs&logoColor=white" alt="ElevenLabs">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React 19">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
 ---
 
 ### 🚀 Projetos em Destaque
 
-* **[NOVA Control Center](https://github.com/fabiorodrigues-tech-dev/NOVA):** Ecossistema back-end corporativo em Java 21, Spring Boot 3.3.3, Clean Architecture, Docker e CI/CD rigoroso com testes automatizados (JUnit 5 + Mockito).
-* **[Sofia AI Agent](https://github.com/fabiorodrigues-tech-dev/sofia-ai-agent):** Agente autônomo de voz B2B (Outbound) orquestrando Vapi, OpenAI GPT-4.1 Mini, Soniox STT, Twilio SIP e webhooks REST para CRM e follow-up no WhatsApp.
-* **macOS Liquid Glass Portfolio:** Experiência Full Stack imersiva com React, TypeScript e Tailwind inspirada no ecossistema Apple.
+* **[NOVA Control Center](https://github.com/fabiorodrigues-tech-dev/NOVA)**
+  * *Descrição:* Ecossistema back-end corporativo e multi-agente construído em Java 21 LTS e Spring Boot 3.3.3. Aplica Clean Architecture (Ports & Adapters), Docker e pipeline rigoroso de CI/CD via GitHub Actions com testes automatizados (JUnit 5 + Mockito).
+  * *Acesso:* [Repositório GitHub](https://github.com/fabiorodrigues-tech-dev/NOVA) | [Render Cloud Live](https://nova-control-center-al5l.onrender.com)
+
+* **[Sofia AI Agent](https://github.com/fabiorodrigues-tech-dev/sofia-ai-agent)**
+  * *Descrição:* Agente autônomo de voz B2B (Outbound) focado em qualificação de leads e agendamento inteligente. Orquestra Vapi AI, OpenAI GPT-4.1 Mini, Soniox STT, Twilio SIP Trunking e webhooks REST integrados ao CRM Dados Premium para automação de follow-ups no WhatsApp.
+  * *Acesso:* [Repositório GitHub](https://github.com/fabiorodrigues-tech-dev/sofia-ai-agent)
+
+* **macOS Liquid Glass Portfolio**
+  * *Descrição:* Experiência Full Stack imersiva desenvolvida com React 19, TypeScript e Tailwind CSS, trazendo um design system avançado inspirado no ecossistema de interface da Apple.
+  * *Acesso:* [Portfólio Interativo](https://github.com/fabiorodrigues-tech-dev)
