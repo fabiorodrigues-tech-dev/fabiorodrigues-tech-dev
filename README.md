@@ -1,4 +1,9 @@
-<h3 align="center">Software Developer | Full Stack & Creative Technologist</h3>
+<div align="center">
+  <!-- Typing SVG Animado -->
+  <a href="https://linkedin.com/in/fabiorodrigues-dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=24&duration=3000&pause=1000&color=4A6FA5&center=true&vCenter=true&width=650&lines=F%C3%A1bio+Rodrigues;Software+Developer+%7C+Full+Stack+%26+Creative+Technologist;Java+21+%26+Spring+Boot+3;React+19+%2C+TypeScript+%26+macOS+Liquid+Glass" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   Desenvolvedor de Software Full Stack & Creative Technologist<br>
@@ -68,6 +73,6 @@
   * *Descrição:* Agente autônomo de voz B2B (Outbound) focado em qualificação de leads e agendamento inteligente. Orquestra Vapi AI, OpenAI GPT-4.1 Mini, Soniox STT, Twilio SIP Trunking e webhooks REST integrados ao CRM Dados Premium para automação de follow-ups no WhatsApp.
   * *Acesso:* [Repositório GitHub](https://github.com/fabiorodrigues-tech-dev/sofia-ai-agent)
 
-* **macOS Liquid Glass Portfolio**
+* **[macOS Liquid Glass Portfolio](https://github.com/fabiorodrigues-tech-dev/portfolio-liquid-glass-experience)**
   * *Descrição:* Experiência Full Stack imersiva desenvolvida com React 19, TypeScript e Tailwind CSS, trazendo um design system avançado inspirado no ecossistema de interface da Apple.
-  * *Acesso:* [Portfólio Interativo](https://github.com/fabiorodrigues-tech-dev)
+  * *Acesso:* [Repositório GitHub](https://github.com/fabiorodrigues-tech-dev/portfolio-liquid-glass-experience)
