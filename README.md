@@ -67,6 +67,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Material_Design_3-757575?style=for-the-badge&logo=materialdesign&logoColor=white" alt="M3" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  
 
   <p style="margin: 8px 0 4px 0;"><strong>🐳 DevOps, Testes & Cloud</strong></p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -76,6 +77,7 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  
 
   <p style="margin: 8px 0 4px 0;"><strong>🧠 Inteligência Artificial & Voz Neural</strong></p>
   <img src="https://img.shields.io/badge/Model_Context_Protocol-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="MCP" />
